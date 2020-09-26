@@ -2,7 +2,7 @@ flask
 uuid
 opencv-python
 keras==2.2.5
-tensorflow==1.14.0
+tensorflow==1.15.4
 scikit-learn
 imutils
 matplotlib
